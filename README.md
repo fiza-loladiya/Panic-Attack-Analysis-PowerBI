@@ -11,7 +11,7 @@ In this project, I connected data from **Snowflake**, cleaned and transformed it
 **Goal:** Explore panic attack–related data and present insights in a clear, filterable dashboard.  
 **Key idea:** Data cleaning + modeling + DAX measures → turns raw tables into decision-friendly visuals.
 
----
+
 
 ## 🧩 Dashboard Pages
 This report contains multiple analysis pages with interactive slicers such as:
@@ -26,6 +26,4 @@ Key insights covered:
 - **Shortness of Breath** and **Chest Pain**
 - Overall symptom patterns by slicers (panic score, trigger, gender, history)
 
-📌 Add cropped screenshot:
-```md
-![Symptoms Overview](assets/symptoms-overview.png)
+![](Number%20Of%20PatientBySym.png)
